@@ -1,0 +1,7 @@
+baseURL = 'https://semantic.github.io/blog/'
+languageCode = 'en-us'
+title = 'SEMANTIC'
+theme = 'typo'
+
+[params]
+defaultTheme = 'auto'
